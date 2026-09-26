@@ -21,7 +21,7 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-## 
+## 활동
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
   <img src="assets/snake-light.svg" width="100%" alt="contribution snake"/>
