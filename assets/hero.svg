@@ -61,11 +61,12 @@
   </g>
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', Roboto, sans-serif">
-    <rect x="70" y="60" width="8" height="8" fill="#FFFFFF"/>
-    <text x="92" y="68" fill="#9A9A9A" font-size="13" font-weight="600" letter-spacing="3.6">KYEONGHUN KIM</text>
-    <text x="70" y="152" fill="#FAFAFA" font-size="58" font-weight="800" letter-spacing="-1.8">AI Agent Engineer</text>
-    <text x="70" y="197" fill="#8A8A8A" font-size="18">에이전트 워크플로우를 설계하고, 운영 가능한 서비스로 만듭니다.</text>
-    <g transform="translate(70,227)">
+    <rect x="70" y="58" width="8" height="8" fill="#FFFFFF"/>
+    <text x="92" y="66" fill="#9A9A9A" font-size="13" font-weight="600" letter-spacing="3.6">KYEONGHUN KIM</text>
+    <text x="70" y="132" fill="#FAFAFA" font-size="50" font-weight="800" letter-spacing="-1.6">Forward Deployed</text>
+    <text x="70" y="184" fill="#FAFAFA" font-size="50" font-weight="800" letter-spacing="-1.6">Engineer</text>
+    <text x="70" y="224" fill="#8A8A8A" font-size="17">현업의 문제를 가까이에서 이해하고, 업무에 필요한 도구를 만듭니다.</text>
+    <g transform="translate(70,250)">
       <rect x="0.5" y="0.5" width="107" height="29" rx="14.5" fill="#141414" stroke="#2A2A2A"/>
       <text x="54" y="20" fill="#B4B4B4" font-size="13" font-weight="500" text-anchor="middle">Python</text>
       <rect x="118.5" y="0.5" width="111" height="29" rx="14.5" fill="#141414" stroke="#2A2A2A"/>

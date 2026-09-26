@@ -1,0 +1,27 @@
+name: Update Productive Box
+
+# 커밋 시각을 분석해 아침형/저녁형 분포를 Gist에 씁니다.
+# 동작 전 준비 (직접 하셔야 합니다):
+#   1. https://gist.github.com/new 에서 public Gist 생성
+#   2. https://github.com/settings/tokens/new 에서 gist + repo 스코프 토큰 발급
+#   3. Settings > Secrets and variables > Actions 에 등록
+#        Secret   GH_TOKEN  = 발급한 토큰
+#        Secret   GIST_ID   = Gist URL 뒤쪽 ID
+#        Variable TIMEZONE  = Asia/Seoul
+#   4. 생성된 Gist를 프로필에 Pin
+
+on:
+  schedule:
+    - cron: "0 15 * * *"   # 매일 한국시간 0시
+  workflow_dispatch:
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update gist
+        uses: maxam2017/productive-box@v1.2.0
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}
+          TIMEZONE: ${{ vars.TIMEZONE }}
