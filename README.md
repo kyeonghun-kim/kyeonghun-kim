@@ -34,13 +34,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
   <img src="assets/snake-light.svg" width="100%" alt="contribution snake"/>
 </picture>
-
-<br/>
-
-<p align="center">
-  <sub>막히는 업무가 있으시다면, 혹은 그냥 인사라도 좋습니다.</sub>
-</p>
-
-<p align="center">
-  <a href="mailto:kyeonghun.dev@gmail.com">kyeonghun.dev@gmail.com</a>
-</p>
