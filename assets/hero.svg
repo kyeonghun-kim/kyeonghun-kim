@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none">
+<defs>
+  <radialGradient id="lift" cx="0" cy="0" r="1" gradientTransform="translate(320 110) scale(520 400)">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity=".07"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="lift2" cx="0" cy="0" r="1" gradientTransform="translate(960 230) scale(420 340)">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity=".045"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="wire" x1="760" y1="60" x2="1130" y2="280" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity=".5"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".16"/>
+  </linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+    <path d="M36 0H0V36" stroke="#FFFFFF" stroke-opacity=".035" stroke-width="1" fill="none"/>
+  </pattern>
+  <filter id="soft" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="7"/></filter>
+  <clipPath id="round"><rect width="1200" height="340" rx="18"/></clipPath>
+</defs>
+
+<g clip-path="url(#round)">
+  <rect width="1200" height="340" fill="#0A0A0A"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+  <rect width="1200" height="340" fill="url(#lift)"/>
+  <rect width="1200" height="340" fill="url(#lift2)"/>
+
+  <g transform="translate(20,0)">
+    <g stroke="url(#wire)" stroke-width="1.5" stroke-linecap="round">
+      <path d="M800 92 C 860 92, 860 60, 918 60"/>
+      <path d="M800 92 C 860 92, 862 168, 920 168"/>
+      <path d="M918 60 C 990 60, 1000 112, 1062 112"/>
+      <path d="M920 168 C 990 168, 1000 118, 1062 112"/>
+      <path d="M920 168 C 975 168, 985 244, 1046 244"/>
+      <path d="M1062 112 C 1110 112, 1106 244, 1046 244"/>
+    </g>
+    <g stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" fill="none" opacity=".8">
+      <path d="M800 92 C 860 92, 862 168, 920 168" stroke-dasharray="5 251">
+        <animate attributeName="stroke-dashoffset" values="256;0" dur="3s" repeatCount="indefinite"/>
+      </path>
+      <path d="M920 168 C 975 168, 985 244, 1046 244" stroke-dasharray="5 231">
+        <animate attributeName="stroke-dashoffset" values="236;0" dur="3s" begin="1.1s" repeatCount="indefinite"/>
+      </path>
+      <path d="M918 60 C 990 60, 1000 112, 1062 112" stroke-dasharray="5 221">
+        <animate attributeName="stroke-dashoffset" values="226;0" dur="3.4s" begin="1.9s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g>
+      <circle cx="800" cy="92" r="24" fill="#FFFFFF" opacity=".13" filter="url(#soft)">
+        <animate attributeName="opacity" values=".07;.2;.07" dur="3.4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="800" cy="92" r="14" fill="#0A0A0A" stroke="#FFFFFF" stroke-width="2"/>
+      <circle cx="800" cy="92" r="4.5" fill="#FFFFFF"/>
+      <circle cx="918" cy="60" r="9" fill="#0A0A0A" stroke="#FFFFFF" stroke-opacity=".4" stroke-width="1.6"/>
+      <circle cx="920" cy="168" r="20" fill="#FFFFFF" opacity=".1" filter="url(#soft)">
+        <animate attributeName="opacity" values=".05;.16;.05" dur="3.4s" begin=".9s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="920" cy="168" r="12" fill="#0A0A0A" stroke="#FFFFFF" stroke-opacity=".78" stroke-width="2"/>
+      <circle cx="920" cy="168" r="4" fill="#FFFFFF" fill-opacity=".85"/>
+      <circle cx="1062" cy="112" r="9" fill="#0A0A0A" stroke="#FFFFFF" stroke-opacity=".4" stroke-width="1.6"/>
+      <circle cx="1046" cy="244" r="12" fill="#0A0A0A" stroke="#FFFFFF" stroke-opacity=".55" stroke-width="1.8"/>
+      <circle cx="1046" cy="244" r="4" fill="#FFFFFF" fill-opacity=".6"/>
+    </g>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', Roboto, sans-serif">
+    <rect x="70" y="60" width="8" height="8" fill="#FFFFFF"/>
+    <text x="92" y="68" fill="#9A9A9A" font-size="13" font-weight="600" letter-spacing="3.6">KYEONGHUN KIM</text>
+    <text x="70" y="152" fill="#FAFAFA" font-size="58" font-weight="800" letter-spacing="-1.8">AI Agent Engineer</text>
+    <text x="70" y="197" fill="#8A8A8A" font-size="18">에이전트 워크플로우를 설계하고, 운영 가능한 서비스로 만듭니다.</text>
+    <g transform="translate(70,227)">
+      <rect x="0.5" y="0.5" width="107" height="29" rx="14.5" fill="#141414" stroke="#2A2A2A"/>
+      <text x="54" y="20" fill="#B4B4B4" font-size="13" font-weight="500" text-anchor="middle">Python</text>
+      <rect x="118.5" y="0.5" width="111" height="29" rx="14.5" fill="#141414" stroke="#2A2A2A"/>
+      <text x="174" y="20" fill="#B4B4B4" font-size="13" font-weight="500" text-anchor="middle">FastAPI</text>
+      <rect x="240.5" y="0.5" width="125" height="29" rx="14.5" fill="#141414" stroke="#2A2A2A"/>
+      <text x="303" y="20" fill="#B4B4B4" font-size="13" font-weight="500" text-anchor="middle">LangGraph</text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="17.5" stroke="#262626"/>
+</g>
+</svg>
