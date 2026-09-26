@@ -1,5 +1,10 @@
 <img src="assets/hero.svg" width="100%" alt="Kyeonghun Kim — Forward Deployed Engineer"/>
 
+<p align="center">
+  <a href="mailto:kyeonghun.dev@gmail.com"><img src="https://img.shields.io/badge/kyeonghun.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/kyeonghun-kim"><img src="https://img.shields.io/badge/kyeonghun--kim-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 ## Forward Deployed Engineer · AI Agents · Backend
 
 <p align="center">
@@ -29,15 +34,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
   <img src="assets/snake-light.svg" width="100%" alt="contribution snake"/>
 </picture>
-
-## You can find me on
-
-<p>
-<a href="mailto:kyeonghun.dev@gmail.com"><img src="https://img.shields.io/badge/kyeonghun.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<!-- 주소 알려주시면 아래 주석을 풀고 채우겠습니다 (한 줄씩 골라 쓰세요)
-<a href="https://velog.io/@아이디"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-<a href="https://아이디.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/아이디"><img src="https://img.shields.io/badge/Kyeonghun%20Kim-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/아이디"><img src="https://img.shields.io/badge/아이디-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
--->
-</p>
