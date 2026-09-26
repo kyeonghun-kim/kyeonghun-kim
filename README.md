@@ -8,14 +8,14 @@
 ## Forward Deployed Engineer · AI Agents · Backend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-1E1E1E?style=flat-square&logo=python&logoColor=FAFAFA&labelColor=0A0A0A"/>
-  <img src="https://img.shields.io/badge/FastAPI-1E1E1E?style=flat-square&logo=fastapi&logoColor=FAFAFA&labelColor=0A0A0A"/>
-  <img src="https://img.shields.io/badge/Pydantic-1E1E1E?style=flat-square&logo=pydantic&logoColor=FAFAFA&labelColor=0A0A0A"/>
-  <img src="https://img.shields.io/badge/LangGraph-1E1E1E?style=flat-square&logo=langgraph&logoColor=FAFAFA&labelColor=0A0A0A"/>
-  <img src="https://img.shields.io/badge/LangChain-1E1E1E?style=flat-square&logo=langchain&logoColor=FAFAFA&labelColor=0A0A0A"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-1E1E1E?style=flat-square&logo=postgresql&logoColor=FAFAFA&labelColor=0A0A0A"/>
-  <img src="https://img.shields.io/badge/Docker-1E1E1E?style=flat-square&logo=docker&logoColor=FAFAFA&labelColor=0A0A0A"/>
-  <img src="https://img.shields.io/badge/Git-1E1E1E?style=flat-square&logo=git&logoColor=FAFAFA&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-7FC8FF?style=flat-square&logo=langgraph&logoColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/LangChain-7FC8FF?style=flat-square&logo=langchain&logoColor=1A1A1A"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F03C2E?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 ## Work
