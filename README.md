@@ -9,8 +9,11 @@
 
 ## Forward Deployed Engineer · AI Agents · Backend
 
+안녕하세요, 김경훈입니다.
+
 그럴듯한 것보다, 쓸모 있는 것들을 만드는 FDE입니다.
 현업의 문제를 가까이에서 이해하고, AI와 백엔드 개발로 업무에 필요한 도구를 만듭니다.
+누가 실제로 쓰는지, 그래서 뭐가 편해졌는지까지가 제 일이라고 생각합니다.
 
 <table width="100%">
 <tr>
@@ -18,7 +21,7 @@
 
 **01 &nbsp;— &nbsp;가까이에서 본다**
 
-현장에 들어가 실제로 무엇이 막혀 있는지부터 확인합니다.
+책상에서 추측하지 않습니다. 실제로 어디서 막히는지 옆에서 봅니다.
 
 <img src="assets/spacer.svg" height="1"/>
 
@@ -27,7 +30,7 @@
 
 **02 &nbsp;— &nbsp;도구로 만든다**
 
-AI와 백엔드를 붙여, 그 업무에 실제로 쓰이는 형태로 만듭니다.
+기술을 먼저 정하지 않습니다. 그 업무에 맞는 형태부터 찾습니다.
 
 <img src="assets/spacer.svg" height="1"/>
 
@@ -36,7 +39,7 @@ AI와 백엔드를 붙여, 그 업무에 실제로 쓰이는 형태로 만듭니
 
 **03 &nbsp;— &nbsp;쓰이게 한다**
 
-그럴듯한 데모에서 멈추지 않고, 계속 쓰이는 상태까지 갑니다.
+만들고 끝내지 않습니다. 계속 쓰이는지 보고 계속 고칩니다.
 
 <img src="assets/spacer.svg" height="1"/>
 
@@ -48,51 +51,16 @@ AI와 백엔드를 붙여, 그 업무에 실제로 쓰이는 형태로 만듭니
 
 ## 스택
 
-<table width="100%">
-<tr>
-<td width="25%" valign="top">
-
-**LANGUAGE**
-
-<img src="https://img.shields.io/badge/Python-1E1E1E?style=flat-square&logo=python&logoColor=FAFAFA&labelColor=0A0A0A"/>
-
-<img src="assets/spacer.svg" height="1"/>
-
-</td>
-<td width="25%" valign="top">
-
-**BACKEND**
-
-<img src="https://img.shields.io/badge/FastAPI-1E1E1E?style=flat-square&logo=fastapi&logoColor=FAFAFA&labelColor=0A0A0A"/>
-<img src="https://img.shields.io/badge/Pydantic-1E1E1E?style=flat-square&logo=pydantic&logoColor=FAFAFA&labelColor=0A0A0A"/>
-
-<img src="assets/spacer.svg" height="1"/>
-
-</td>
-<td width="25%" valign="top">
-
-**AI / AGENT**
-
-<img src="https://img.shields.io/badge/LangGraph-1E1E1E?style=flat-square&logo=langgraph&logoColor=FAFAFA&labelColor=0A0A0A"/>
-<img src="https://img.shields.io/badge/LangChain-1E1E1E?style=flat-square&logo=langchain&logoColor=FAFAFA&labelColor=0A0A0A"/>
-<img src="https://img.shields.io/badge/Anthropic-1E1E1E?style=flat-square&logo=anthropic&logoColor=FAFAFA&labelColor=0A0A0A"/>
-
-<img src="assets/spacer.svg" height="1"/>
-
-</td>
-<td width="25%" valign="top">
-
-**DATA / INFRA**
-
-<img src="https://img.shields.io/badge/PostgreSQL-1E1E1E?style=flat-square&logo=postgresql&logoColor=FAFAFA&labelColor=0A0A0A"/>
-<img src="https://img.shields.io/badge/Docker-1E1E1E?style=flat-square&logo=docker&logoColor=FAFAFA&labelColor=0A0A0A"/>
-<img src="https://img.shields.io/badge/Git-1E1E1E?style=flat-square&logo=git&logoColor=FAFAFA&labelColor=0A0A0A"/>
-
-<img src="assets/spacer.svg" height="1"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-1E1E1E?style=flat-square&logo=python&logoColor=FAFAFA&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/FastAPI-1E1E1E?style=flat-square&logo=fastapi&logoColor=FAFAFA&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/Pydantic-1E1E1E?style=flat-square&logo=pydantic&logoColor=FAFAFA&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/LangGraph-1E1E1E?style=flat-square&logo=langgraph&logoColor=FAFAFA&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/LangChain-1E1E1E?style=flat-square&logo=langchain&logoColor=FAFAFA&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1E1E1E?style=flat-square&logo=postgresql&logoColor=FAFAFA&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/Docker-1E1E1E?style=flat-square&logo=docker&logoColor=FAFAFA&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/Git-1E1E1E?style=flat-square&logo=git&logoColor=FAFAFA&labelColor=0A0A0A"/>
+</p>
 
 <img src="assets/divider.svg" width="100%"/>
 
@@ -138,6 +106,17 @@ AI와 백엔드를 붙여, 그 업무에 실제로 쓰이는 형태로 만듭니
 <img src="assets/divider.svg" width="100%"/>
 -->
 
+## 일 밖에서
+
+화면만 보고 있으면 오래 못 가더라고요.
+평소엔 몸 쓰는 쪽으로 시간을 보냅니다. 밖에 나가 있을 때 생각이 제일 잘 풀립니다.
+
+<img src="assets/divider.svg" width="100%"/>
+
 <p align="center">
-  <sub>AI와 현업 사이의 문제라면 언제든 환영입니다 &nbsp;·&nbsp; <a href="mailto:kyeonghun.dev@gmail.com">kyeonghun.dev@gmail.com</a></sub>
+  <sub>막히는 업무가 있으시다면, 혹은 그냥 인사라도 좋습니다.</sub>
+</p>
+
+<p align="center">
+  <a href="mailto:kyeonghun.dev@gmail.com">kyeonghun.dev@gmail.com</a>
 </p>
