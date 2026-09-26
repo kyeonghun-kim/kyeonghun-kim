@@ -1,18 +1,9 @@
 <img src="assets/hero.svg" width="100%" alt="Kyeonghun Kim — AI Agent Engineer"/> <p align="center"> <a href="mailto:kyeonghun.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-kyeonghun.dev@gmail.com-FAFAFA?style=for-the-badge&logo=gmail&logoColor=FAFAFA&labelColor=0A0A0A&color=1E1E1E"/></a> <a href="https://github.com/kyeonghun-kim"><img src="https://img.shields.io/badge/GITHUB-kyeonghun--kim-FAFAFA?style=for-the-badge&logo=github&logoColor=FAFAFA&labelColor=0A0A0A&color=1E1E1E"/></a> </p> <img src="assets/divider.svg" width="100%"/>
-무엇을 만드나
-LLM이 여러 단계를 스스로 밟아 일을 끝내는 애플리케이션을 만듭니다. 질문에 답하는 챗봇이 아니라, 툴을 골라 쓰고 중간에 틀리면 되돌아오는 쪽입니다.
 
-<table width="100%"> <tr> <td width="33%" valign="top">
-에이전트 설계
-툴 경계 나누기<br/> 멀티스텝 플래닝<br/> 상태 관리
+Forward Deployed Engineer AI Agents Backend
 
-<img src="assets/spacer.svg" height="1"/> </td> <td width="33%" valign="top">
-서빙
-FastAPI 비동기 처리<br/> 스트리밍 응답<br/> 툴 병렬 실행
-
-<img src="assets/spacer.svg" height="1"/> </td> <td width="33%" valign="top">
-관측
-실행 트레이싱<br/> 실패 지점 추적<br/> 동작 재현
+그럴듯한 것보다, 쓸모 있는 것들을 만드는 FDE입니다.
+현업의 문제를 가까이에서 이해하고, AI와 백엔드 개발로 업무에 필요한 도구를 만듭니다.
 
 <img src="assets/spacer.svg" height="1"/> </td> </tr> </table> <img src="assets/divider.svg" width="100%"/>
 스택
