@@ -8,11 +8,7 @@ Forward Deployed Engineer AI Agents Backend
 <img src="assets/spacer.svg" height="1"/> </td> </tr> </table> <img src="assets/divider.svg" width="100%"/>
 스택
 <p align="center"> <img src="https://img.shields.io/badge/Python-1E1E1E?style=flat-square&logo=python&logoColor=FAFAFA&labelColor=0A0A0A"/> <img src="https://img.shields.io/badge/FastAPI-1E1E1E?style=flat-square&logo=fastapi&logoColor=FAFAFA&labelColor=0A0A0A"/> <img src="https://img.shields.io/badge/Pydantic-1E1E1E?style=flat-square&logo=pydantic&logoColor=FAFAFA&labelColor=0A0A0A"/> <img src="https://img.shields.io/badge/PostgreSQL-1E1E1E?style=flat-square&logo=postgresql&logoColor=FAFAFA&labelColor=0A0A0A"/> </p> <p align="center"> <img src="https://img.shields.io/badge/LangGraph-1E1E1E?style=flat-square&logo=langgraph&logoColor=FAFAFA&labelColor=0A0A0A"/> <img src="https://img.shields.io/badge/LangChain-1E1E1E?style=flat-square&logo=langchain&logoColor=FAFAFA&labelColor=0A0A0A"/> <img src="https://img.shields.io/badge/Anthropic-1E1E1E?style=flat-square&logo=anthropic&logoColor=FAFAFA&labelColor=0A0A0A"/> <img src="https://img.shields.io/badge/Docker-1E1E1E?style=flat-square&logo=docker&logoColor=FAFAFA&labelColor=0A0A0A"/> <img src="https://img.shields.io/badge/Git-1E1E1E?style=flat-square&logo=git&logoColor=FAFAFA&labelColor=0A0A0A"/> </p> <img src="assets/divider.svg" width="100%"/>
-잔디
-<p align="center"> <img src="./profile-3d-contrib/profile-mono.svg" width="100%" alt="3D contribution graph"/> </p> <img src="assets/divider.svg" width="100%"/>
-어떻게 접근하나
-에이전트의 성패는 프롬프트보다 그 주변 구조에서 갈린다고 봅니다.
 
-툴을 어디서 끊을지, 실패했을 때 어디로 돌아갈지, 컨텍스트에 무엇을 남길지 — 데모와 서비스의 차이는 대부분 여기서 생깁니다.
+<p align="center"> <img src="./profile-3d-contrib/profile-mono.svg" width="100%" alt="3D contribution graph"/> </p> <img src="assets/divider.svg" width="100%"/>
 
 <img src="assets/divider.svg" width="100%"/> <!-- 공개 리포가 생기면 살리세요. 프로필에서 가장 힘이 센 자리입니다. ## 만든 것 <table width="100%"> <tr> <td width="50%" valign="top"> ### [repo-name](https://github.com/kyeonghun-kim/repo-name) 어떤 문제를 어떻게 풀었는지 한 줄. `Python` `FastAPI` `LangGraph` </td> <td width="50%" valign="top"> ### [repo-two](https://github.com/kyeonghun-kim/repo-two) 어떤 문제를 어떻게 풀었는지 한 줄. `Python` `PostgreSQL` </td> </tr> </table> <img src="assets/divider.svg" width="100%"/> --> <p align="center"> <sub>에이전트 이야기라면 언제든 환영입니다 &nbsp;·&nbsp; <a href="mailto:kyeonghun.dev@gmail.com">kyeonghun.dev@gmail.com</a></sub> </p>
