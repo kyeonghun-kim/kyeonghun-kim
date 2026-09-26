@@ -8,8 +8,6 @@
 <img src="assets/divider.svg" width="100%"/>
 
 ## Forward Deployed Engineer · AI Agents · Backend
-## 스택
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1E1E1E?style=flat-square&logo=python&logoColor=FAFAFA&labelColor=0A0A0A"/>
   <img src="https://img.shields.io/badge/FastAPI-1E1E1E?style=flat-square&logo=fastapi&logoColor=FAFAFA&labelColor=0A0A0A"/>
