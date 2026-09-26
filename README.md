@@ -11,7 +11,5 @@ LLM이 여러 단계를 스스로 밟아 일을 끝내는 애플리케이션을 
 
 <br/>
 스택
-Python  ·  FastAPI  ·  LangGraph  ·  PostgreSQL  ·  Docker
-
-<!-- 공개 리포가 생기면 아래 섹션을 살리세요. 프로필에서 가장 힘이 센 자리입니다. ### 만든 것 | 프로젝트 | 설명 | 스택 | | :-- | :-- | :-- | | **[repo-name](https://github.com/kyeonghun-kim/repo-name)** | 어떤 문제를 어떻게 풀었는지 한 줄 | `Python` `FastAPI` | --> <br/>
+<img src="https://img.shields.io/badge/language-Python-3776AB?style=flat-square&logo=Python&logoColor=white&labelColor=1C2333"/> <img src="https://img.shields.io/badge/api-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white&labelColor=1C2333"/> <img src="https://img.shields.io/badge/agent-LangGraph-BB9AF7?style=flat-square&logo=LangGraph&logoColor=white&labelColor=1C2333"/> <img src="https://img.shields.io/badge/data-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white&labelColor=1C2333"/> <img src="https://img.shields.io/badge/infra-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white&labelColor=1C2333"/> <!-- 공개 리포가 생기면 아래 섹션을 살리세요. 프로필에서 가장 힘이 센 자리입니다. ### 만든 것 | 프로젝트 | 설명 | 스택 | | :-- | :-- | :-- | | **[repo-name](https://github.com/kyeonghun-kim/repo-name)** | 어떤 문제를 어떻게 풀었는지 한 줄 | `Python` `FastAPI` | --> <br/>
 <p align="center"> <a href="mailto:kyeonghun.dev@gmail.com">kyeonghun.dev@gmail.com</a> </p>
