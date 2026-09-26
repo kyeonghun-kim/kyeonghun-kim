@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" width="100%" alt="Kyeonghun Kim — AI Agent Engineer"/>
+<img src="assets/hero.svg" width="100%" alt="Kyeonghun Kim — Forward Deployed Engineer"/>
 
 <p align="center">
   <a href="mailto:kyeonghun.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-kyeonghun.dev@gmail.com-FAFAFA?style=for-the-badge&logo=gmail&logoColor=FAFAFA&labelColor=0A0A0A&color=1E1E1E"/></a>
@@ -7,45 +7,10 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-## 무엇을 만드나
+## Forward Deployed Engineer · AI Agents · Backend
 
-LLM이 **여러 단계를 스스로 밟아 일을 끝내는** 애플리케이션을 만듭니다.
-질문에 답하는 챗봇이 아니라, 툴을 골라 쓰고 중간에 틀리면 되돌아오는 쪽입니다.
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### 에이전트 설계
-툴 경계 나누기<br/>
-멀티스텝 플래닝<br/>
-상태 관리
-
-<img src="assets/spacer.svg" height="1"/>
-
-</td>
-<td width="33%" valign="top">
-
-### 서빙
-FastAPI 비동기 처리<br/>
-스트리밍 응답<br/>
-툴 병렬 실행
-
-<img src="assets/spacer.svg" height="1"/>
-
-</td>
-<td width="33%" valign="top">
-
-### 관측
-실행 트레이싱<br/>
-실패 지점 추적<br/>
-동작 재현
-
-<img src="assets/spacer.svg" height="1"/>
-
-</td>
-</tr>
-</table>
+그럴듯한 것보다, 쓸모 있는 것들을 만드는 FDE입니다.
+현업의 문제를 가까이에서 이해하고, AI와 백엔드 개발로 업무에 필요한 도구를 만듭니다.
 
 <img src="assets/divider.svg" width="100%"/>
 
@@ -74,15 +39,6 @@ FastAPI 비동기 처리<br/>
   <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
   <img src="assets/snake-light.svg" width="100%" alt="contribution snake"/>
 </picture>
-
-<img src="assets/divider.svg" width="100%"/>
-
-## 어떻게 접근하나
-
-> **에이전트의 성패는 프롬프트보다 그 주변 구조에서 갈린다고 봅니다.**
->
-> 툴을 어디서 끊을지, 실패했을 때 어디로 돌아갈지, 컨텍스트에 무엇을 남길지 —
-> 데모와 서비스의 차이는 대부분 여기서 생깁니다.
 
 <img src="assets/divider.svg" width="100%"/>
 
@@ -120,5 +76,5 @@ FastAPI 비동기 처리<br/>
 -->
 
 <p align="center">
-  <sub>에이전트 이야기라면 언제든 환영입니다 &nbsp;·&nbsp; <a href="mailto:kyeonghun.dev@gmail.com">kyeonghun.dev@gmail.com</a></sub>
+  <sub>AI와 현업 사이의 문제라면 언제든 환영입니다 &nbsp;·&nbsp; <a href="mailto:kyeonghun.dev@gmail.com">kyeonghun.dev@gmail.com</a></sub>
 </p>
